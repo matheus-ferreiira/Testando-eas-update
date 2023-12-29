@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.mthsfp.app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -31,9 +32,7 @@
         "projectId": "e318fb3f-2cea-45a1-8ff2-40ef187c6822"
       }
     },
-    "runtimeVersion": {
-      "policy": "appVersion"
-    },
+    "runtimeVersion": "1.0.0",
     "updates": {
       "url": "https://u.expo.dev/e318fb3f-2cea-45a1-8ff2-40ef187c6822"
     }
